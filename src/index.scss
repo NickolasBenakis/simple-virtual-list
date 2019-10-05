@@ -1,0 +1,24 @@
+section {}
+
+#parent {
+    height: 100vh;
+    overflow: auto;
+}
+
+#viewport {
+    position: relative;
+    will-change: transform;
+    overflow: hidden;
+    // height dynamika
+}
+
+#content {
+    text-align: center;
+    position: relative;
+}
+
+.card {
+    border: 1px solid black;
+    margin: 20px auto;
+    box-sizing: border-box;
+}
