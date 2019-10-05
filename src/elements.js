@@ -3,4 +3,3 @@ export const element = {
 	viewport: document.getElementById("viewport"),
 	parent: document.getElementById("parent")
 };
-
