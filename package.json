@@ -18,7 +18,7 @@
 	"license": "ISC",
 	"dependencies": {
 		"jest": "^24.1.0",
-		"lodash": "^4.17.15",
+		"lodash": "^4.17.21",
 		"node-sass": "^4.11.0"
 	},
 	"devDependencies": {
